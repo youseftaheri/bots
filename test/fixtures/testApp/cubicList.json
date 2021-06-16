@@ -1,0 +1,20 @@
+{
+  "Type": 100,
+  "Message": "Got the data",
+  "Data": [
+    {
+      "time": 1622937600,
+      "volume": 36155531502.91
+    },
+    {
+      "time": 1623024000,
+      "volume": 50179822740.08
+    }
+  ],
+  "TimeFrom": 1622937600,
+  "TimeTo": 1623801600,
+  "FirstValueInArray": true,
+  "ConversionType": "direct",
+  "RateLimit": {},
+  "HasWarning": false
+}
